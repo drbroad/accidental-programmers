@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "The Accidental Programmers",
+    "packageVersion": "0.0.1",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "drbroad",
+    "githubRepository": "accidental-programmers"
+  }
+}
